@@ -1,3 +1,21 @@
+{*****************************************************************}
+{                                                                 }
+{          Generic Linked List implementation for Delphi          }
+{                Inspired by C# TLinkedList class                 } 
+{                                                                 }
+{               Copyright (c) 2024 by Lorenzo Bardi               }
+{                                                                 }
+{      This source code is distributed under the Library GNU      }
+{     General Public License with the following modification:     }
+{     - object files and libraries linked into an application     }
+{              may be distributed without source code.            }
+{                                                                 }
+{ This program is distributed in the hope that it will be useful, } 
+{ but WITHOUT ANY WARRANTY; without even the implied warranty of  }
+{     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.        }
+{                                                                 }
+{*****************************************************************}
+
 unit LinkedList;
 
 interface
